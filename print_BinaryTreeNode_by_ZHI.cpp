@@ -14,7 +14,7 @@ using namespace std;
 
 
 struct BinaryTreeNode {
-    int                     m_key;
+    int             m_key;
     BinaryTreeNode *pLeft;
     BinaryTreeNode *pRight;
 };
